@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sagarsakharkar14
-- 👀 I’m interested in web development using python + Django
-- 🌱 I’m currently learning Django REST & Web framework, git
-- 💞️ I’m looking to collaborate on web development projects.
+- 👀 I’m interested in web development using python + Django, Gen AI, AIML
+- 🌱 I’m currently learning Django REST & Web framework, git, AWS Cloud
+- 💞️ I’m looking to collaborate on python based and web/backend development projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
